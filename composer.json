@@ -12,5 +12,5 @@
             "email": "lucas@anywheremediacompany.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
