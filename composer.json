@@ -27,5 +27,6 @@
                 "AnywhereMedia\\PageEditor\\PageEditorServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
