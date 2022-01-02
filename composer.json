@@ -1,0 +1,16 @@
+{
+    "name": "anywheremedia/pageeditor",
+    "description": "Page editor for Laravel Voyager",
+    "type": "library",
+    "require": {
+        "tcg/voyager": "1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Heer",
+            "email": "lucas@anywheremediacompany.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
