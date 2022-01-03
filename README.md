@@ -15,6 +15,10 @@ Page editor for Laravel Voyager
 
 > php artisan pagebuilder:create-theme demo
 
+**4. Install Voyager Page Editor**
+
+> composer require anywheremedia/pageeditor
+
 
 
 
