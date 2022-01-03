@@ -15,7 +15,6 @@
             "email": "lucas@anywheremediacompany.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "classmap": [],
         "psr-4": {
