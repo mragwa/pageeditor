@@ -11,9 +11,11 @@ Page editor for Laravel Voyager
 
 > php artisan migrate
 
-**3. Create theme**
+> copy pagebuilder.php config
 
-> php artisan pagebuilder:create-theme demo
+**3. Create demo theme**
+
+> php artisan pagebuilder:publish-demo
 
 **4. Install Voyager Page Editor**
 
