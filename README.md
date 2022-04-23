@@ -5,6 +5,10 @@ Page editor for Laravel Voyager
 
 **1. Install Voyager (https://github.com/the-control-group/voyager)**
 
+> composer require tcg/voyager
+
+> php artisan voyager:install --with-dummy
+
 **2. Install Laravel PHPageBuilder (https://github.com/HansSchouten/Laravel-Pagebuilder):**
 
 > composer require hansschouten/laravel-pagebuilder
