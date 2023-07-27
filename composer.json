@@ -2,6 +2,7 @@
     "name": "anywheremedia/pageeditor",
     "description": "Page editor for Laravel Voyager",
     "type": "library",
+    "version":"10.0.0",
     "require": {
         "tcg/voyager": "*"
     },
