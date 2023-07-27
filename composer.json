@@ -3,7 +3,7 @@
     "description": "Page editor for Laravel Voyager",
     "type": "library",
     "require": {
-        "tcg/voyager": "^dev-1.6-l10"
+        "tcg/voyager": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5"
