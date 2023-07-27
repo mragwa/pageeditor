@@ -3,6 +3,7 @@
     "description": "Page editor for Laravel Voyager",
     "type": "library",
     "version":"10.0.0",
+      "minimum-stability": "stable",
     "require": {
         "tcg/voyager": "*"
     },
