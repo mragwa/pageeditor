@@ -1,5 +1,5 @@
 {
-    "name": "anywheremedia/pageeditor",
+    "name": "agwa/pageeditor",
     "description": "Page editor for Laravel Voyager",
     "type": "library",
     "require": {
